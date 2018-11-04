@@ -1,0 +1,2 @@
+# TalekBot
+Utrzymanie discordowego bota
